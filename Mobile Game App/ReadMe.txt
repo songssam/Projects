@@ -1,0 +1,1 @@
+This app is benchmarked Doodle Jump
